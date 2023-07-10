@@ -14,3 +14,6 @@ A script for current working direstory
 12-file_type: A script to tell the file type
 13-symbolic_links: A script to create Symbolic a links
 14-copy_html: a script to copy all file with .html to the parent folder
+100-lets_move: a script to move all files with uppercase in to a /tmp/u folder 
+101-clean_emacs: A script that deletes all files ending with ~
+102-tree: A script to create nested directories
